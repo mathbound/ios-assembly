@@ -1,3 +1,5 @@
+# Running ARM assembly on iPhone
+
 ## To build and run
 
 - make sure your device is jailbroken and you have ssh access!
@@ -9,7 +11,6 @@ sh build_link_push.sh hello.s hello  192.168.1.100 /var/jb/var/tmp/
 
 ## DISCLAIMER:
 
-```text
 - This is for educational purposes only, I am not responsible for bricked devices from using my repo!
+
 - Use everything at your own risk!
-```
